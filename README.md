@@ -1,6 +1,8 @@
 # 🎲 Random Names Generator
 
 A small vanilla JavaScript project that places names at random positions inside a box. Click **Add** to drop a random name somewhere new, and **Reset** to clear the box.
+# Live Link
+https://rahulgavel73.github.io/random-name-generator
 
 ## Features
 
